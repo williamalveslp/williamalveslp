@@ -1,5 +1,5 @@
 # 💫 Who is William Goi?
-Software Engineer .NET with over 7 years of experience, using ASPNET MVC/Core, REST API, Azure DevOps CI/CD, SQL Server, MongoDB, Neo4j, EntityFramework Core, NHibernate, Dapper, Specflow, JavaScript and Jquery(in legacy projects).
+Software Engineer .NET with over 7 years of experience, using ASPNET MVC/Core, REST API, Azure DevOps CI/CD, SQL Server, MongoDB, Neo4j, EntityFramework Core, NHibernate, Dapper, Specflow, JavaScript and Jquery(in legacy projects).<br/><br/>
 
 About frontend has around 1 year a half using React and React Native.
 
