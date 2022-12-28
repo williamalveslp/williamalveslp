@@ -1,7 +1,11 @@
 # 💫 Who is William Goi?
-Software Engineer with over 7 years of experience, using ASPNET MBV/Core, REST API, DDD, TDD, Azure DevOps CI/CD, SQL Server, MongoDB, Neo4j, EntityFramework Core, NHibernate, Dapper, Specflow, JavaScript and Jquery(in legacy projects).
+Software Engineer .NET with over 7 years of experience, using ASPNET MVC/Core, REST API, Azure DevOps CI/CD, SQL Server, MongoDB, Neo4j, EntityFramework Core, NHibernate, Dapper, Specflow, JavaScript and Jquery(in legacy projects).
 
-Experiences with patterns and good practices like DDD, TDD, CQRS, Strangler, Factory, DI, Builder, Clean Code, SOLID Principles and Notification pattern.
+About frontend has around 1 year a half using React and React Native.
+
+Experience with patterns and good practices like DDD, TDD, CQRS, Strangler, Factory, DI, Builder, Clean Code, SOLID Principles and Notification pattern.
+
+Currently is participating with some teams as Data Engineer, about ETL process for Big Data.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=williamalveslp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
